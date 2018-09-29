@@ -43,7 +43,9 @@ module.exports = function (ctx) {
         'QLayout',
         'QPageContainer',
         'QPage',
-        'QBtn'
+        'QBtn',
+        'QDialog',
+        'QInput'
       ],
       directives: [
         'Ripple'
@@ -51,7 +53,8 @@ module.exports = function (ctx) {
       // Quasar plugins
       plugins: [
         'Notify',
-        'Screen'
+        'Screen',
+        'Dialog'
       ]
       // iconSet: ctx.theme.mat ? 'material-icons' : 'ionicons'
       // i18n: 'de' // Quasar language

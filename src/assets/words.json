@@ -57,7 +57,7 @@
     "hardhat",
     "igloo",
     "jumper",
-    "jalapeños",
+    "jalapenos",
     "kaftan",
     "lemonade",
     "league",
@@ -198,5 +198,9 @@
     "healthy",
     "additional",
     "subtraction",
-    "multiplication"
+    "multiplication",
+    "presentation",
+    "emergency",
+    "telephone",
+    "treehouse"
 ]
